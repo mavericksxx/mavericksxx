@@ -3,6 +3,10 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGlxM2d3bm1seDh6aDdkaWUyN3lzOGp3YWZ5YzVxdzRmNjBwMzVzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTPjPA6SSXgTsnZ1Dh/giphy.gif" width="100"/>
 </div>
 
+<div align="center">
+-
+</div>
+
 [comment]: <> (socials)
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/parth-kohale-671534290">
