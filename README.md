@@ -12,6 +12,12 @@
   <a href="https://www.linkedin.com/in/parth-kohale-671534290">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+   <a href="parthkohale@gmail.com">
+    <img src="https://img.shields.io/badge/Email-yellow?style=for-the-badge&logo=Gmail&logoColor=white" alt="Mail Badge"/>
+  </a>
+   <a href="https://wa.me/918208076167">
+    <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp Badge"/>
+  </a>
   <a href="https://www.instagram.com/parthh.kohale">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
