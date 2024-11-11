@@ -1,7 +1,3 @@
-<div align="center">
--
-</div>
-
 [comment]: <> (socials)
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/parth-kohale-671534290">
