@@ -38,8 +38,7 @@
 ---
 
 ### :man_technologist: About Me :
-I’m a passionate tech enthusiast who is eager to delve deeper into the world of programming. My curiosity extends beyond the basics, and I’m particularly intrigued by machine learning and artificial intelligence. When I’m not immersed in code, I find joy in playing video games, exploring virtual worlds, and perhaps even envisioning how AI could enhance gaming experiences 🚀🎮🤖
-</div>
+I'm a tech enthusiast passionate about diving deeper into the world of programming. I'm especially fascinated by machine learning and artificial intelligence. When I'm not coding, I enjoy playing video games, exploring virtual worlds, and imagining how AI could make gaming even better.
 
 <div align="center"> 
 ------
