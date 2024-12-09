@@ -38,7 +38,7 @@
 ---
 
 ### :man_technologist: About Me :
-I'm a tech enthusiast passionate about diving deeper into the world of programming. I'm especially fascinated by machine learning and artificial intelligence. When I'm not coding, I enjoy playing video games, exploring virtual worlds, and imagining how AI could make gaming even better.
+I like to make stuff that solves actual problems. I enjoy listening to music and also play the guitar sometimes. Black holes are cool.
 
 <div align="center"> 
 ------
