@@ -29,9 +29,9 @@
 </h1>
 
 [comment]: <> (secondary gif)
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTd6ZHpra3B2MWlsbWI0eXdvbjJyd2p4Z3ppZzBnMXM4MWljZndlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jfHRfhqipdl3ybvRn8/giphy.gif">
-</div>
+[comment]: <> (<div align="center">)
+[comment]: <> (  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTd6ZHpra3B2MWlsbWI0eXdvbjJyd2p4Z3ppZzBnMXM4MWljZndlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jfHRfhqipdl3ybvRn8/giphy.gif">)
+[comment]: <> (</div>)
 
 [comment]: <> (about me)
 <div align="center">
