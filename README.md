@@ -35,8 +35,7 @@
 
 [comment]: <> (about me)
 <div align="center">
----
-
+[comment]: <> (---)
 ### :man_technologist: About Me :
 I like to make stuff that solves actual problems. I enjoy listening to music and also play the guitar sometimes. Black holes are cool.
 
