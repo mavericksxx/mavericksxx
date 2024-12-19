@@ -35,16 +35,12 @@
 
 [comment]: <> (about me)
 <div align="center">
-  
-### :man_technologist: About Me :
 I like to make stuff that solves actual problems. I enjoy listening to music and also play the guitar sometimes. Black holes are cool.
 
 <div align="center"> 
 ------
 </div>
 
-
-:hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="30" height="30"/>&nbsp;
@@ -57,10 +53,7 @@ I like to make stuff that solves actual problems. I enjoy listening to music and
 
 [comment]: <> (github stats)
 <div align="center">
----------
 </div>
-
-:fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mavericksxx&theme=dark&background=000000)](https://git.io/streak-stats)
 
